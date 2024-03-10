@@ -1,0 +1,14 @@
+{
+    "name": "merq/merq",
+    "description": "Merq is an E-Commerce framework for Laravel.",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Peter Stovka",
+            "email": "peter@merq.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
